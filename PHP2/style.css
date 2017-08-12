@@ -1,0 +1,13 @@
+*{
+  padding: 3px;
+
+
+}
+h1{
+  text-align: center;
+}
+.btn{
+  width: 90%;
+  color:rgb(0, 0, 0);
+    font-size: 25px;
+}
